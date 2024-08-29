@@ -1,0 +1,10 @@
+// export { default as HeroTitle } from './HeroTitle';
+// export { default as HeroDescription } from './HeroDescription';
+// export { default as HeroCtaButtons } from './HeroCtaButtons';
+// export { default as HeroTechStack } from './HeroTechStack';
+// export { default as HeroTitle } from "./HeroTitle";
+// export { default as HeroDescription } from "./HeroDescription";
+// export { default as HeroButtons } from "./HeroButtons";
+export { default as Title } from "./HeroTitle";
+export { default as Description } from "./HeroDescription";
+export { default as Buttons } from "./HeroButtons";
